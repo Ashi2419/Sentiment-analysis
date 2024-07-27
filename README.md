@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/sentiment-analysis-project.git
+git clone https://github.com/Ashi2419/sentiment-analysis-project.git
 Navigate to the project directory:
 
 bash
